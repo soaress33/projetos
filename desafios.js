@@ -6,4 +6,6 @@ console.log(playlist);
 playlist.push("djw 7");
 console.log(playlist);
 
-let removido
+let removido = playlist.pop();
+console.log(removido);
+console.log(playlist);
